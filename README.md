@@ -4,6 +4,10 @@
 
 holaaa, mi nombre es Facundo Cajal y actualmente tengo 20 años. Me gustan los gatos, perros, jugar al futbol, salir a correr y las milanesas y No odio discreta.
 
+Soy de River Plate, pero me gusta más jugar al futbol que mirarlo. Otro dato sobre mi es que vivo en zona norte(Don Torcuato) por lo que la facu me queda un poco lejos. 
+
+(Tuve problemas con el tamaño de la foto(? )
+
 ![mi foto](foto.jpg)
 
 
